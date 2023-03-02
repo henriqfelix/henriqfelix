@@ -3,8 +3,8 @@
 </h2>
 
 <p>
-    <a href="https://henriquefelix.netlify.app" target="_blank">
-        <img src="https://img.shields.io/static/v1?label&message=CLICK HERE&color=650ED7&style=for-the-badge"/>
+    <a href="https://henriquefelix.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/static/v1?label&message=CLICK HERE&logoWidth=20&color=650ED7&style=for-the-badge"/>
     </a>
 </p>
 
